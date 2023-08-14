@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: cloudreve
+    name: linzihao
     env: docker
-    repo: https://github.com/chuyua/cloudreve-render.git
+    repo: https://github.com/lzhsterling/cloudreve-render.git
     region: Singapore
     plan: free
     healthCheckPath: /
